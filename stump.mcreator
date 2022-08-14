@@ -1,0 +1,537 @@
+{
+  "mod_elements": [
+    {
+      "name": "Stump",
+      "type": "tab",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stump"
+    },
+    {
+      "name": "SmallOakLog",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_oak_log",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallSpruceLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_spruce_log",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallBirchLog",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_birch_log",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallJungleLog",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_jungle_log",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallAcaciaLog",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_acacia_log",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallDarkOakLog",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_dark_oak_log",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallCrimsonStem",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_crimson_stem",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallWarpedStem",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_warped_stem",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallOakLogRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_oak_log_recipe",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallSpruceLogRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_spruce_log_recipe",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallBirchLogRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_birch_log_recipe",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallJungleLogRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_jungle_log_recipe",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallAcaciaLogRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_acacia_log_recipe",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallDarkOakLogRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_dark_oak_log_recipe",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallCrimsonStemRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_crimson_stem_recipe",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "SmallWarpedStemRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_warped_stem_recipe",
+      "path": "~/SmallLogs"
+    },
+    {
+      "name": "MediumOakLog",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_oak_log",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumSpruceLog",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_spruce_log",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumBirchLog",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_birch_log",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumJungleLog",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_jungle_log",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumAcaciaLog",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_acacia_log",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumDarkOakLog",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_dark_oak_log",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumCrimsonStem",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_crimson_stem",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumWarpedStem",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_warped_stem",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "CutOakLog",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_oak_log",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutSpruceLog",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_spruce_log",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutBirchLog",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_birch_log",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutJungleLog",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_jungle_log",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutAcaciaLog",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_acacia_log",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutDarkOakLog",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_dark_oak_log",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutCrimsonStem",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_crimson_stem",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutWarpedStem",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_warped_stem",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutOakLogRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_oak_log_recipe",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutSpruceLogRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_spruce_log_recipe",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutBirchLogRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_birch_log_recipe",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutJungleLogRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_jungle_log_recipe",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutAcaciaLogRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_acacia_log_recipe",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutDarkOakLogRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_dark_oak_log_recipe",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutCrimsonStemRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_crimson_stem_recipe",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "CutWarpedStemRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_warped_stem_recipe",
+      "path": "~/CutLogs"
+    },
+    {
+      "name": "MediumOakLogRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_oak_log_recipe",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumSpruceLogRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_spruce_log_recipe",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumBirchLogRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_birch_log_recipe",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumJungleLogRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_jungle_log_recipe",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumAcaciaLogRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_acacia_log_recipe",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumDarkOakLogRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_dark_oak_log_recipe",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumCrimsonStemRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_crimson_stem_recipe",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "MediumWarpedStemRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medium_warped_stem_recipe",
+      "path": "~/MediumLogs"
+    },
+    {
+      "name": "GiveStumpRecipes",
+      "type": "procedure",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "give_stump_recipes",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabstump": "Stump",
+      "block.stump.cut_birch_log": "Cut Birch Log",
+      "block.stump.cut_jungle_log": "Cut Jungle Log",
+      "block.stump.small_acacia_log": "Small Acacia Log",
+      "block.stump.small_warped_stem": "Small Warped Stem",
+      "block.stump.cut_spruce_log": "Cut Spruce Log",
+      "block.stump.cut_warped_stem": "Cut Warped Stem",
+      "block.stump.medium_warped_stem": "Medium Warped Stem",
+      "block.stump.small_birch_log": "Small Birch Log",
+      "block.stump.medium_birch_log": "Medium Birch Log",
+      "block.stump.medium_acacia_log": "Medium Acacia Log",
+      "block.stump.cut_crimson_stem": "Cut Crimson Stem",
+      "block.stump.medium_crimson_stem": "Medium Crimson Stem",
+      "block.stump.small_dark_oak_log": "Small Dark Oak Log",
+      "block.stump.small_jungle_log": "Small Jungle Log",
+      "block.stump.small_crimson_stem": "Small Crimson Log",
+      "block.stump.small_spruce_log": "Small Spruce Log",
+      "block.stump.medium_spruce_log": "Medium Spruce Log",
+      "block.stump.medium_dark_oak_log": "Medium Dark Oak Log",
+      "block.stump.small_oak_log": "Small Oak Log",
+      "block.stump.medium_oak_log": "Medium Oak Log",
+      "block.stump.cut_acacia_log": "Cut Acacia Log",
+      "block.stump.cut_dark_oak_log": "Cut Dark Oak Log",
+      "block.stump.cut_oak_log": "Cut Oak Log",
+      "block.stump.medium_jungle_log": "Medium Jungle Log"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "SmallLogs",
+        "children": []
+      },
+      {
+        "name": "MediumLogs",
+        "children": []
+      },
+      {
+        "name": "CutLogs",
+        "children": []
+      },
+      {
+        "name": "LogsSlabs",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "stump",
+    "modName": "Stump",
+    "version": "1.0.0",
+    "description": "A small mod that adds different sized logs",
+    "author": "nystylecheesecake",
+    "websiteURL": "https://github.com/nystylecheesecake/stump",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "made by nystylecheesecake - made in Mcreator",
+    "modElementsPackage": "stump",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200233511
+}

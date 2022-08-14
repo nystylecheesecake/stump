@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jungle_log"
+    },
+    "1": {
+      "item": "minecraft:jungle_log"
+    },
+    "2": {
+      "item": "minecraft:jungle_log"
+    },
+    "3": {
+      "item": "minecraft:jungle_log"
+    },
+    "4": {
+      "item": "minecraft:jungle_log"
+    },
+    "5": {
+      "item": "minecraft:jungle_log"
+    }
+  },
+  "result": {
+    "item": "stump:medium_jungle_log",
+    "count": 9
+  }
+}

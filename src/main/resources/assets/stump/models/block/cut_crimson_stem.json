@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stump:blocks/crimson_stem_cut",
+    "up": "stump:blocks/crimson_stem_cut",
+    "north": "stump:blocks/stripped_crimson_stem",
+    "east": "stump:blocks/crimson_stem",
+    "south": "stump:blocks/crimson_stem",
+    "west": "stump:blocks/stripped_crimson_stem",
+    "particle": "stump:blocks/crimson_stem_cut"
+  }
+}

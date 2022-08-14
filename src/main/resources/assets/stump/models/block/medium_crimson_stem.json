@@ -1,0 +1,8 @@
+{
+  "parent": "stump:custom/medium_log",
+  "textures": {
+    "all": "stump:blocks/crimson_stem_medium",
+    "particle": "stump:blocks/crimson_stem",
+    "0": "stump:blocks/crimson_stem_medium"
+  }
+}

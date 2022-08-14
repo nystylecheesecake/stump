@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "stump:block/cut_crimson_stem"
+    },
+    "facing=east": {
+      "model": "stump:block/cut_crimson_stem",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "stump:block/cut_crimson_stem",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stump:block/cut_crimson_stem",
+      "y": 270
+    }
+  }
+}

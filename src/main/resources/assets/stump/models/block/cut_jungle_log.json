@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stump:blocks/jungle_log_cut",
+    "up": "stump:blocks/jungle_log_cut",
+    "north": "stump:blocks/stripped_jungle_log",
+    "east": "stump:blocks/jungle_log",
+    "south": "stump:blocks/jungle_log",
+    "west": "stump:blocks/stripped_jungle_log",
+    "particle": "stump:blocks/jungle_log_cut"
+  }
+}

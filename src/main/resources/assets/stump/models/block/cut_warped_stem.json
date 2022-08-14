@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stump:blocks/warped_stem_cut",
+    "up": "stump:blocks/warped_stem_cut",
+    "north": "stump:blocks/stripped_warped_stem",
+    "east": "stump:blocks/warped_stem",
+    "south": "stump:blocks/warped_stem",
+    "west": "stump:blocks/stripped_warped_stem",
+    "particle": "stump:blocks/warped_stem_cut"
+  }
+}

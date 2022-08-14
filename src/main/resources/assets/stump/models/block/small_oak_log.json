@@ -1,0 +1,8 @@
+{
+  "parent": "stump:custom/small_log",
+  "textures": {
+    "all": "stump:blocks/oak_log_small",
+    "particle": "stump:blocks/oak_log",
+    "0": "stump:blocks/oak_log_small"
+  }
+}

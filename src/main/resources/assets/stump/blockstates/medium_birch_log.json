@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "stump:block/medium_birch_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "stump:block/medium_birch_log"
+    },
+    "axis=z": {
+      "model": "stump:block/medium_birch_log",
+      "x": 90
+    }
+  }
+}

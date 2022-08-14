@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="stump"
+version="1.0.0"
+displayName="Stump"
+credits="made by nystylecheesecake - made in Mcreator"
+displayURL="https://github.com/nystylecheesecake/stump"
+logoFile="logo.png"
+authors="nystylecheesecake"
+description='''
+A small mod that adds different sized logs
+'''
+
+[[dependencies.stump]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

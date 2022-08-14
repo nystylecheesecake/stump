@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:warped_stem"
+    },
+    "1": {
+      "item": "minecraft:warped_stem"
+    },
+    "2": {
+      "item": "minecraft:warped_stem"
+    },
+    "3": {
+      "item": "minecraft:warped_stem"
+    },
+    "4": {
+      "item": "minecraft:warped_stem"
+    },
+    "5": {
+      "item": "minecraft:warped_stem"
+    }
+  },
+  "result": {
+    "item": "stump:medium_warped_stem",
+    "count": 9
+  }
+}

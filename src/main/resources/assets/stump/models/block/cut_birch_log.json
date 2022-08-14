@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stump:blocks/birch_log_cut",
+    "up": "stump:blocks/birch_log_cut",
+    "north": "stump:blocks/stripped_birch_log",
+    "east": "stump:blocks/birch_log",
+    "south": "stump:blocks/birch_log",
+    "west": "stump:blocks/stripped_birch_log",
+    "particle": "stump:blocks/birch_log_cut"
+  }
+}

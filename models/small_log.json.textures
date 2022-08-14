@@ -1,0 +1,52 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "oak_log_small"
+      },
+      "name": "default"
+    },
+    "crimson": {
+      "map": {
+        "0": "crimson_stem_small"
+      },
+      "name": "crimson"
+    },
+    "birch": {
+      "map": {
+        "0": "birch_log_small"
+      },
+      "name": "birch"
+    },
+    "acacia": {
+      "map": {
+        "0": "acacia_log_small"
+      },
+      "name": "acacia"
+    },
+    "warped": {
+      "map": {
+        "0": "warped_stem_small"
+      },
+      "name": "warped"
+    },
+    "jungle": {
+      "map": {
+        "0": "jungle_log_small"
+      },
+      "name": "jungle"
+    },
+    "dark_oak": {
+      "map": {
+        "0": "dark_oak_log_small"
+      },
+      "name": "dark_oak"
+    },
+    "spruce": {
+      "map": {
+        "0": "spruce_log_small"
+      },
+      "name": "spruce"
+    }
+  }
+}
